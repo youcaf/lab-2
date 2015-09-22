@@ -1,0 +1,32 @@
+
+#container {
+	background-color:#0F3140;
+	width: 100%;
+	padding-bottom: 60px;
+	text-align: center;	
+}
+
+.tab div {
+    display: none;
+}
+
+.tab div:target {
+    display: block;
+}
+
+figcaption {
+
+	color: #FFFFFF;
+	font-weigt: bold;
+	font-size: 40px;
+
+}
+
+h1 {
+	color: #ffffff;
+}
+
+a {
+	color: #8B008B;
+	text-decoration: none;
+}

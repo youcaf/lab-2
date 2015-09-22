@@ -1,0 +1,44 @@
+						 Name: Yousaf iqbal
+						    Reg # 04730
+						  Class: BESE-4A
+
+
+
+
+
+HTML Tags Used in this task:
+
+<html>
+<head>
+<title>
+<h1>
+<a>
+<img>
+<figure>
+<div>
+<figcaption>
+<Button>
+
+CSS properties Used in this task:
+
+background-color	
+width
+padding-bottom
+text-align
+color
+font-weigt
+font-size
+display
+target
+text-decoration
+
+
+	I have done this tasks mostly using the div's. i have created a tab bar of images using the anchor tag and directed each
+image to a div using href=#(ImageReference). 
+	I have made this page responsive by using the width property in every div tag thats is used for showing each of the image
+when clicked from tab bar.
+	I used button for next and precious image and also direct the image previous and next to current image using href=#imagereference.
+
+Sir this is the github link for my first Lab. I did not upload it on LMS last time.
+https://github.com/youcaf/lab
+
